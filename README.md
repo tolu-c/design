@@ -6,4 +6,4 @@ design
 400 x 400
 1500 x 500
 
-![image]('./static/img/Web_design_PNG.png')
+![image]('https://raw.githubusercontent.com/tolu-c/design/main/static/img/Web_design_PNG.png')
