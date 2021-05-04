@@ -76,7 +76,7 @@ html {
   font-weight: 400;
   letter-spacing: 1rem;
   animation: fromUp 1s ease-out;
-  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .hero-heading--sub {
@@ -85,7 +85,7 @@ html {
   font-weight: 700;
   letter-spacing: .7rem;
   animation: fromDown 1s ease-out;
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
 }
 
 .header__buttons {

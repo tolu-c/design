@@ -89,3 +89,30 @@
         font-size: .75em;
     }
 }
+
+@media (max-width: 400px) {
+    html {
+        font-size: 50%; /*8px*/
+    }
+    body {
+        padding: 1rem;
+    }
+    .header__logo-box {
+        right: 1.5rem;
+        top: .2rem;
+        font-size: 4rem;
+        font-weight: 700;
+    }
+    .hero-heading--sub {
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: .7rem;
+    }
+    .header__buttons {
+        bottom: 0;
+        right: 1rem;
+    }
+    .icons {
+        font-size: 1rem;
+    }
+}
